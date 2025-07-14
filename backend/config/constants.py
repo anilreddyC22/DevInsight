@@ -1,0 +1,3 @@
+# backend/config/constants.py
+MAX_ANALYZABLE_FILES = 5000
+MAX_COMPLEXITY_FILES = 5000
